@@ -1,0 +1,7 @@
+Version inicial:
+primer prompt:crea una pagina web sobre una tienda de juegos retro tipo arcade, 
+ésta debe mostrar información como el lugar, los horarios de apertura, y los arcades
+ con los distintos juegos que se peuden jugar en la tienda
+
+ -para esta fase inicial se le pidió a la ia una base para una pagina de juegos de arcade con ubicacion horario
+  y juegos disponibles
